@@ -8,7 +8,7 @@ Just note that, once you install mods, you MUST have the exact same mods as the 
 ## Contents
 - [Initial Setup](#Intial-Setup)
 - [Installing Mods](#Installing-Mods)
-  - [Thunderstore](#Through-Thunderstore-(Recommended))
+  - [Through Thunderstore](#Through-Thunderstore-(Recommended))
   - [Manual Install](#Manual-Install)
 - [Downloads](#Downloads)
 
