@@ -21,6 +21,8 @@ You'll need Thunderstore before anything else, to download it you simply need to
 
 - When you click get app, it'll take you to the overwolf appstore (Thunderstore is in the overwolf ecosystem of apps like OutPlayed and Forge) where from there, you can click get app on the bottom, where it should automate most of the installation for you (if you don't have overwolf, it will download overwolf for you.) <img width="1598" height="1720" alt="Overwolf" src="https://github.com/user-attachments/assets/8274c92f-e43e-42bf-82be-366ea155c91d" />
 
+##### Note: You may have to run the game once before setting up Thunderstore, as Thunderstore needs to find the games 'compat data' folder, which requires you to have ran the game AT LEAST ONCE
+
 ## Installing Mods
 ### Through Thunderstore (Recommended)
 #### Importing a profile
