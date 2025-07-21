@@ -1,7 +1,7 @@
 # Quick guide on how to install mods for Lethal Company
 
 ## Before you get started
-Just note that, once you install mods, you MUST have the exact same mods as the people you're playing with to join their lobby. You will need to play the Vanilla version of Lethal Company if you want to play with someone not using mods 
+Just note that, once you install mods, you MUST have the exact same mods as the people you're playing with to join their lobby. If someone is not using mods, You will need to play the Vanilla version of Lethal Company. To do this:
 - if you used thunderstore to install mods, simply click the **Vanilla** button while launching from any profile
 - if you did it manually, you will have to remove your **plugins** folder and any mods you installed
 
