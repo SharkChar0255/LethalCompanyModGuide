@@ -5,6 +5,14 @@ Just note that, once you install mods, you MUST have the exact same mods as the 
 - if you used thunderstore to install mods, simply click the **Vanilla** button while launching from any profile
 - if you did it manually, you will have to remove your **plugins** folder and any mods you installed
 
+## Contents
+- [Initial Setup](#Intial-Setup)
+- [Installing Mods](#Installing-Mods)
+-   [Thunderstore](#Through-Thunderstore-(Recommended))
+-   [Manual Install](#Manual-Install)
+- [Downloads](#Downloads)
+
+
 ## Initial Setup 
 ### ⚠️ WARNING: (Only do this if you plan on downloading your mods through thunderstore, if not, skip to the Manual Install Section)
 You'll need Thunderstore before anything else, to download it you simply need to 
@@ -55,7 +63,7 @@ once you do that, simply select the mod you want to install, and click the 'down
 
 Once it's installed, you should see all of your installed mods pop up in the 'My Mods tab' 
 
-### Manual
+### Manual Install
 You can also download the mods manually. The initial downloads are less work than getting Thunderstore setup, however, downloading Mods after setup is significantly easier on Thunderstore then doing them Manually.
 
 The reason we can install mods manually is because Thunderstore is just the Mod Manager, meaning all it does is just show you the mods you have installed, **BepInEx** is the actual mod loader for Lethal Company. 
